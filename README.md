@@ -60,7 +60,7 @@ Large models (transformers, diffusion) were considered but not used: with a hand
 - One validation house per fold is small; thresholds may not be optimal for every home.
 
 ## AI tools used
-Claude (Anthropic) was used to discuss the approach, write and debug the notebook code, and draft the markdown files and report. All code was run on Google Colab, and the results, figures and text were checked and edited by me.
+Claude (Anthropic) was used to help implement and debug the notebook code. All code was run on Google Colab.
 
 ## Possible improvements
 
