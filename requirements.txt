@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy
+matplotlib
+scikit-learn
+lightgbm>=4.0
+pyarrow
+tabulate
+torch  # optional, only for the CNN comparison

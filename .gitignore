@@ -1,0 +1,12 @@
+# data (download with the notebook, not committed)
+*.7z
+*.csv
+refit_data/
+refit_archives/
+refit_outputs/
+*.parquet
+*.pkl
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
